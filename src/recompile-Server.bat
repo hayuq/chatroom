@@ -1,0 +1,1 @@
+javac -d ../bin -encoding utf-8 com/cs/chatonline/Server.java
