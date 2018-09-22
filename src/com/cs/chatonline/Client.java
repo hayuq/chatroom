@@ -30,6 +30,7 @@ import javax.swing.border.EmptyBorder;
 
 /**
  * 客户端程序
+ * @author hayuq (https://hayuq.com)
  */
 public class Client extends JFrame implements ActionListener{
 

@@ -23,7 +23,8 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
 /**
- * 用户登录
+ * 用户登录界面
+ * @author hayuq (https://hayuq.com)
  */
 public class LoginUI extends JFrame implements ActionListener {
 

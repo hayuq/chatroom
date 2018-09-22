@@ -13,6 +13,7 @@ import java.util.HashMap;
 
 /**
  * 服务端
+ * @author hayuq (https://hayuq.com)
  */
 public class Server {
 
